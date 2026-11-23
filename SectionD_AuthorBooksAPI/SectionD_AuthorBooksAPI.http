@@ -1,0 +1,6 @@
+@SectionD_AuthorBooksAPI_HostAddress = http://localhost:5279
+
+GET {{SectionD_AuthorBooksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
